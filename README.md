@@ -5,11 +5,12 @@
 </div>
 
 # StatisticalLearning
-| # | Title | Category | Difficulty | Solution | Basic Project |
-|:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
-| 1 | [Perceptron](.) | SupervisedLearning<br>Classfication| Easy | [PerceptronFromScratch](.) [PerceptronFromSklearn](.) | [PerceptronOnIrisDataSet](.) |
-| 2 | [KNN](.) | SupervisedLearning<br>Classfication&Regression | Easy | [KNNFromScratch](.) [KNNFromSklearn](.) | [约会网站配对](.)<br>[手写识别系统](.)<br>[KNNOnLetterRecognitionDatasets](.) |
-| 3 | [DecisionTree](.) | SupervisedLearning<br>Classfication&Regression | Easy | [DecisionTreeFromScratch](.) [DecisionTreeFromSklearn](.) | [使用决策树预测隐形眼镜类型](.)<br>[DTOnPageBlocksClassificationDataSet](.)<br> |
+| # | Title | Category | Basic Implemetntaion | Basic Project |Diffculty|
+|:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: | :-----------:|
+| 1 | [Perceptron](.) | SupervisedLearning<br>Classfication|[PerceptronFromScratch](.) [PerceptronFromSklearn](.) | [PerceptronOnIrisDataSet](.) | Easy | 
+| 2 | [KNN](.) | SupervisedLearning<br>Classfication&Regression | [KNNFromScratch](.) [KNNFromSklearn](.) | [约会网站配对](.)<br>[手写识别系统](.)<br>[KNNOnLetterRecognitionDatasets](.) | Easy | 
+| 3 | [DecisionTree](.) | SupervisedLearning<br>Classfication&Regression |[DecisionTreeFromScratch](.) [DecisionTreeFromSklearn](.) | [使用朴素贝叶斯过滤垃圾邮件](.)<br>[DTOnPageBlocksClassificationDataSet](.)<br> | Easy | 
+| 4 | [NaiveBayes](.) | SupervisedLearning<br>Classfication | [NaiveBayesFromScratch](.) [NaiveBayesFromSklearn](.) | [使用决策树预测隐形眼镜类型](.)<br>[NaiveBayesOnNurseryDataSet](.)<br> | Easy | 
 # DeepLearning
 | # | Title | Category | Difficulty | Solution | Some Notes |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
