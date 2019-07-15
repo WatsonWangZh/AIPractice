@@ -18,7 +18,7 @@
 # PaperReproduction
 | # | Title | Category | Difficulty | Solution | Some Idea |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
-| 1 | Word2Vec | NLP<br>WordEmbedding | Medium | [CBOW](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/word2vec_CBOW.py)<br> [Skip-Gram](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/word2vec_skip-gram.py) |  |
+| 1 | Word2Vec | NLP<br>WordEmbedding | Medium | [CBOW](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_CBOW.py)<br> [Skip-Gram](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_skip-gram.py) |  |
 # Competitions
 | # | Title | Category | Difficulty | Solution | Some Notes |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
