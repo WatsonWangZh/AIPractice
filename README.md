@@ -17,6 +17,7 @@
 | # | Title | Category | Difficulty | Solution | Some Notes |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
 | 1 | 第一个聊天机器人Eliza | NLP<br>ChatBot | Easy | [Eliza](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/NaturalLanguageProcess/ChatBot_Eliza/eliza.py) |  |
+| 2 | Gridworld | ReinforcementLearning<br>Q-Learing | Easy | [Gridworld](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/ReinforcementLearning/GridWorld/) | 入门 |
 # PaperReproduction
 | # | Title | Category | Difficulty | Solution | Some Idea |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
