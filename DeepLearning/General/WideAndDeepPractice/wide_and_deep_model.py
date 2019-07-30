@@ -1,5 +1,4 @@
 #coding: utf-8
-
 import pandas as pd
 from keras.models import Sequential
 from keras.layers import Dense, Merge
@@ -47,6 +46,7 @@ def preprocess(df):
     df = pd.get_dummies(df, columns=[x for x in CATEGORICAL_COLUMNS])
     # 规范化
     df = pd.DataFrame(MinMaxScaler().fit_transform(df), columns=df.columns)
+
     X = df.values
     # 特征工程，加入交叉与组合特征
     from sklearn.preprocessing import PolynomialFeatures
@@ -55,8 +55,8 @@ def preprocess(df):
     return X, y
 
 def main():
-    df_train = load('adult.data')
-    df_test = load('adult.test')
+    df_train = load('data/adult.data')
+    df_test = load('data/adult.test')
     df = pd.concat([df_train, df_test])
     train_len = len(df_train)
     
