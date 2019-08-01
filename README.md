@@ -19,6 +19,7 @@
 | 1 | 第一个聊天机器人Eliza | NLP<br>ChatBot | Easy | [Eliza](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/NaturalLanguageProcess/ChatBot_Eliza/eliza.py) |  |
 | 2 | Gridworld | ReinforcementLearning<br>Q-Learing | Easy | [Gridworld](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/ReinforcementLearning/GridWorld/) | 入门 |
 | 3 | Wide&&Deep Practice | General<br>LogisticRegression<br>DNN | Medium | [Wide&&DeepPractice](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/WideAndDeepPractice/) | CTR<br>推荐 |
+| 4 | MachineTranslation | NLP<br>MachineTranslation | Medium | [StatisticalMachineTranslation](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/NaturalLanguageProcess/MachineTranslation/StatisticalMachineTranslation/)<br>[NeuralMachineTranslation]()| 统计机器翻译基本思路<br>神经机器翻译基本实现 |
 # PaperReproduction
 | # | Title | Category | Difficulty | Solution | Some Idea |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
