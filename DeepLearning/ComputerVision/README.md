@@ -1,4 +1,4 @@
-# Image Datasets
+# Famous Image Datasets
 ## CIFAR-10
 [The CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)  
 
@@ -40,3 +40,35 @@
 ![Imagenet](./src/Imagenet.jpg)  
 
 1000 classes, ~ 1.4M images in total, normalized 256 * 256 * 3 images
+
+# Basic CNN in Detail
+## Conv_Layer 
+![conv_layer1](./src/conv_layer1.png)
+![conv_detail](./src/conv_detail.png)
+![conv_layer2](./src/conv_layer2.png)
+## Pool_Layer
+![pool_layer](./src/pool_layer.png)
+## Summary
+- Stack of Conv, Pool and fully-connected layers  
+- Usually deeper models help  
+- Pool are not necessarily needed
+
+# Famous CNN Architectures
+## LeNet-5
+![LeNet-5](./src/Lenet-5.jpg)
+
+## AlexNet
+![AlexNet](./src/AlexNet.jpg)
+
+## VGGNet
+![VGGNet](./src/VGGNet-1.jpg)
+![VGGNet](./src/VGGNet-2.jpg)
+
+## GoogLeNet
+![GoogLeNet](./src/GoogLeNet-1.jpg)
+![GoogLeNet](./src/GoogLeNet-2.jpg)
+![GoogLeNet](./src/GoogLeNet-3.jpg)
+
+## ResNet
+![ResNet](./src/ResNet-1.jpg)
+![ResNet](./src/ResNet-2.jpg)
