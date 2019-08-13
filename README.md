@@ -1,4 +1,4 @@
-# MachineLearningPractice
+# ArtificialIdiotPractice
 <h3 align="center">人工智障知识储备 MachineLearning with X</h3>
 <div align="center">
     <img src="src/ml.jpg" height="200" width="400">
@@ -21,9 +21,9 @@
 | 3 | Wide&&Deep Practice | General<br>LogisticRegression<br>DNN | Medium | [Wide&&DeepPractice](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/WideAndDeepPractice/) | CTR<br>推荐 |
 | 4 | MachineTranslation | NLP<br>MachineTranslation | Medium | [StatisticalMachineTranslation](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/NaturalLanguageProcess/MachineTranslation/StatisticalMachineTranslation/)| 统计机器翻译基本思路 |
 # PaperReproduction
-| # | Title | Category | Difficulty | Solution | Some Idea |
+| # | Title | Category | Paper | Solution | Difficulty |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
-| 1 | Word2Vec | NLP<br>WordEmbedding | Medium | [CBOW](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_CBOW.py)<br> [Skip-Gram](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_skip-gram.py) |  |
+| 1 | Word2Vec | NLP<br>WordEmbedding | [Distributed Representations of Words and Phrases and their Compositionality](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Paper) | [CBOW](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_CBOW.py)<br> [SkipGram](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_skip-gram.py) | Medium |
 # Competitions
 | # | Title | Category | Difficulty | Solution | Some Notes |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
