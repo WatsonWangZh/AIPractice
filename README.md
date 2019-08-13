@@ -20,6 +20,8 @@
 | 2 | Gridworld | ReinforcementLearning<br>Q-Learing | Easy | [Gridworld](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/ReinforcementLearning/GridWorld/) | 入门 |
 | 3 | Wide&&Deep Practice | General<br>LogisticRegression<br>DNN | Medium | [Wide&&DeepPractice](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/WideAndDeepPractice/) | CTR<br>推荐 |
 | 4 | MachineTranslation | NLP<br>MachineTranslation | Medium | [StatisticalMachineTranslation](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/NaturalLanguageProcess/MachineTranslation/StatisticalMachineTranslation/)| 统计机器翻译基本思路 |
+| 5 | LinearRegression | General<br>TensorFlowPractice | Easy | [LinearRegression](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/TensorflowPractice/Linear_Regression.py)| LinearRegression with TensorBoard |
+| 6 | PolynomialRegression | General<br>TensorFlowPractice | Easy | [PolynomialRegression](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/TensorflowPractice/Polynomial_Regression.py)| PolynomialRegression with TensorBoard |
 # PaperReproduction
 | # | Title | Category | Paper | Solution | Difficulty |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
