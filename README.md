@@ -26,7 +26,7 @@
 | # | Title | Category | Paper | Solution | Difficulty |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
 | 1 | Word2Vec | NLP<br>WordEmbedding | [Distributed Representations of Words and Phrases and their Compositionality](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Paper) | [CBOW](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_CBOW.py)<br> [SkipGram](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_skip-gram.py) | Medium |
-| 2 | HAN-Text-Classfication | NLP<br>TextClassification<br>HierarchicalAttention | [Hierarchical Attention Networks for Document Classification](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/HAN-Text-Classification/paper) | [Tensorflow](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/HAN-Text-Classification/code/) | Medium |
+| 2 | HAN-Text-Classfication | NLP<br>TextClassification<br>HierarchicalAttention | [Hierarchical Attention Networks for Document Classification](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/HAN-Text-Classification/paper) | [Tensorflow](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/HAN-Text-Classification/) | Medium |
 # Competitions
 | # | Title | Category | Difficulty | Solution | Some Notes |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
