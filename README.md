@@ -1,5 +1,5 @@
-# ArtificialIdiotPractice
-<h3 align="center">人工智障知识储备 MachineLearning with X</h3>
+# AIPractice
+<h3 align="center">人工智障知识储备 Artificial Idiot with X</h3>
 <div align="center">
     <img src="src/ml.jpg" height="200" width="400">
 </div>
