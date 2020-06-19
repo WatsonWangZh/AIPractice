@@ -1,7 +1,7 @@
 # AIPractice
 <h3 align="center">人工智障知识储备 Artificial Idiot with X</h3>
 <div align="center">
-    <img src="src/ml.jpg" height="200" width="400">
+    <img src="picture/ml.jpg" height="200" width="400">
 </div>
 
 # StatisticalLearning
@@ -22,7 +22,7 @@
 | 4 | MachineTranslation | NLP<br>MachineTranslation | Medium | [StatisticalMachineTranslation](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/NaturalLanguageProcess/MachineTranslation/StatisticalMachineTranslation/)| 统计机器翻译基本思路 |
 | 5 | TensorFlowPractice | General<br>TensorFlowPractice | Easy | [Linear_Regression](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/TensorflowPractice/Linear_Regression.py)<br>[Polynomial_Regression](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/TensorflowPractice/Polynomial_Regression.py)<br>[Logistic_Regression](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/TensorflowPractice/Logistic_Regression.py)<br>[MLP_DNN](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/General/TensorflowPractice/Multilayer_Perceptron.py)| X Regression with TensorBoard |
 | 6 | GeneralNER | NLP<br>NER | Medium | [GeneralNER](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/DeepLearning/NaturalLanguageProcess/GeneralNER/)| GeneralNER in BiLSTM + CRF with Keras |
-# PaperReproduction
+# Paper Reading with Code
 | # | Title | Category | Paper | Solution | Difficulty |
 |:---:| :-----: | :---------:| :-----------:| :---------:| :--------------------: |
 | 1 | Word2Vec | NLP<br>WordEmbedding | [Distributed Representations of Words and Phrases and their Compositionality](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Paper) | [CBOW](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_CBOW.py)<br> [SkipGram](https://github.com/WatsonWangZh/MachineLearningPractice/blob/master/PaperReproduction/Word2Vec/Code/word2vec_skip-gram.py) | Medium |
